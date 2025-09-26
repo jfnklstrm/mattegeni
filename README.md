@@ -18,3 +18,9 @@ Ett förslag på ett tillägg är att skapa en excelmall som
 visar stats grafiskt utifrån loggens data. Då skulle excel
 analfabeter kunna öppna filen i excelmallen och få visualiseringen
 utan att göra en dashboard.
+
+Filen finns kompilerad till exe fil för windows och som
+py fil för linux.
+
+Jag ska försöka bygga en mac version också, men kan inte
+testa den då jag inte har en mac.
